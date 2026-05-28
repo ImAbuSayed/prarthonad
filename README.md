@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/prarthonad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Prarthonad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prarthonad/) |
+| **Get License** | [Get License For Prarthonad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prarthonad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিশাচর এই শহরে আজ অদ্ভুত এক মায়া
+> আঁধারেও স্পষ্ট শুধু তোমার সেই ছায়া
+> ঘুমহীন এই চোখে কেন শুধু তোমার স্বপন
+> চুপিচুপি কাছে এসে ছুঁয়ে দাও এ মন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
