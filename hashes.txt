@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Prarthonad
+
+This log tracks the cryptographic history and versioning for the song **Prarthonad** (prarthonad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T19:45:50.461454 | `v1` | `f1cf6e4c09e9529fcd29e27e3273446086e0199d2c72a9cbae0f3fdd6788cf0d` | `ca2a1fd69bd09906ea5ec7ff5a8c89d2c314a44419266310c7c422bb6e25edeb` | `2026-05-28_prarthonad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

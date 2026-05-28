@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/prarthonad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Prarthonad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prarthonad/) |
+| **Get License** | [Request Licensing for Prarthonad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prarthonad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f1cf6e4c09e9529fcd29e27e3273446086e0199d2c72a9cbae0f3fdd6788cf0d` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
